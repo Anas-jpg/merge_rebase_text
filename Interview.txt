@@ -1,6 +1,6 @@
 longest common prefix
 
-Q1.They gave me two linked lists and asked to add them in another linked list
+Q1.They gavee me two linked lists and asked to add them in another linked list
 
 
 1. create mergeHead
